@@ -1,0 +1,21 @@
+# path to folder with data
+dir: ${work_dir}/data/
+files:
+  SKYE_v1:
+    qna: extended_SKYE_RetrievalDB_New.json
+    index: extended_SKYE_RetrievalDB_New.json.faiss
+    answers: answers_SKYE_RetrievalDB_New.json
+  user_longterm:
+    qna: extended_NameLocGen.json
+    index: extended_NameLocGen.json.faiss
+    answers: answers_NameLocGen.json
+  question_time:
+    qna: extended_question_time.json
+    index: extended_question_time.json.faiss
+    answers: answers_question_time.json
+  question_weather:
+    qna: extended_question_weather.json
+    index: extended_question_weather.json.faiss
+    answers: answers_question_weather.json
+
+    

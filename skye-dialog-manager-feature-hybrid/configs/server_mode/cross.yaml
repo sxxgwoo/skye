@@ -1,0 +1,6 @@
+# @package _global_
+
+defaults:
+  - override /model/encoder: trained_cross.yaml
+  - override /retriever/dense: cross.yaml
+  - override /retriever/sparse: bm25.yaml

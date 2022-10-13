@@ -1,5 +1,0 @@
-dir: ${work_dir}/data_/
-files:
-  sentiment_analysis:
-    sentiment: data_test_h00.json
-    answers: answers_test_answer2.json

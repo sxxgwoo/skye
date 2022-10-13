@@ -1,0 +1,137 @@
+﻿{
+    "extended_answer": [
+        " Why is it important to you to eat something that You like?"
+    ],
+    "1": [
+        {
+            "positive": 0.9521574974060059,
+            "neutral": 0.038966067135334015,
+            "negative": 0.008876540698111057,
+            "user": "I love sushi",
+            "skye": "What other kinds of food do you enjoy? ",
+            "topic": "food_&_dining",
+            "word": "sushi",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.001189426751807332
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.0015217122854664922
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.0006968334200792015
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.9808403849601746
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.008052405901253223
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.0048974500969052315
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.0028017449658364058
+                    }
+                ]
+            ],
+            "pre": "Human sushi joy"
+        }
+    ],
+    "2": [
+        {
+            "negative": 0.8565888404846191,
+            "neutral": 0.11169346421957016,
+            "positive": 0.03171782195568085,
+            "user": "I hate football",
+            "skye": "Why would anyone be against you? ",
+            "topic": "sports",
+            "word": "football",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.8169178366661072
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.1300809681415558
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.004405932035297155
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.002517241518944502
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.010712641291320324
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.03363025560975075
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.0017350456910207868
+                    }
+                ]
+            ],
+            "pre": "Human football anger"
+        }
+    ],
+    "3": [
+        {
+            "positive": 0.5635039210319519,
+            "neutral": 0.41527214646339417,
+            "negative": 0.021223893389105797,
+            "user": "what's my favorite food",
+            "skye": "I like sushi.  Why is it important to you to eat something that You like?",
+            "topic": "food_&_dining",
+            "word": "food",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.014264578931033611
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.002416775096207857
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.004920430481433868
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.44625619053840637
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.24444004893302917
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.010437412187457085
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.2772645056247711
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ]
+}

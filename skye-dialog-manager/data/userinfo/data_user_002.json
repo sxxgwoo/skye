@@ -1,0 +1,489 @@
+﻿{
+    "extended_answer": [
+        " What kind of food do you love the most?"
+    ],
+    "1": [
+        {
+            "positive": 0.9377191662788391,
+            "neutral": 0.0511934794485569,
+            "negative": 0.011087482795119286,
+            "user": "i love sushi",
+            "skye": "Sushi is one of my favorite foods! ",
+            "topic": "food_&_dining",
+            "word": "sushi",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.0028745317831635475
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.000552161771338433
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.002692104782909155
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.957705557346344
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.01267059613019228
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.013474015519022942
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.010030964389443398
+                    }
+                ]
+            ],
+            "pre": "Human sushi joy"
+        }
+    ],
+    "2": [
+        {
+            "negative": 0.8615939617156982,
+            "neutral": 0.11089920252561569,
+            "positive": 0.027506951242685318,
+            "user": "i hate football",
+            "skye": "I completely understand how you feel. Football can be a frustrating sport to watch, especially when your team isn't doing well. However, I still enjoy watching football because it's a fun game to watch. ",
+            "topic": "sports",
+            "word": "football",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.7317679524421692
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.005393927451223135
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.00331189320422709
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.023731911554932594
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.0038595658261328936
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.2285224199295044
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.0034123279619961977
+                    }
+                ]
+            ],
+            "pre": "Human football anger"
+        }
+    ],
+    "3": [
+        {
+            "neutral": 0.5873984694480896,
+            "positive": 0.4003507196903229,
+            "negative": 0.012250841595232487,
+            "user": "do you remember what is my favorite food?",
+            "skye": "I like eating sushi. ",
+            "topic": "food_&_dining",
+            "word": "food",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.016056930646300316
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.018898459151387215
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.005512910429388285
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.02501710131764412
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.7385125160217285
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.007113101426512003
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.18888896703720093
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "4": [
+        {
+            "neutral": 0.8691189885139465,
+            "positive": 0.11773491650819778,
+            "negative": 0.013146093115210533,
+            "user": "Hello, what is your name?",
+            "skye": "My name is SKYE. ",
+            "topic": "diaries_&_daily_life",
+            "word": "name",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.010285505093634129
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.005920810159295797
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.012280842289328575
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.006714265793561935
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.8035341501235962
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.0052159633487463
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.1560484915971756
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "5": [
+        {
+            "neutral": 0.9245167374610901,
+            "negative": 0.04100795090198517,
+            "positive": 0.034475360065698624,
+            "user": "what time is it in seoul",
+            "skye": "The local time in Seoul is Wednesday, 02:45:19 PM ",
+            "topic": "",
+            "word": "seoul",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.01182735525071621
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.0021684456150978804
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.007273409981280565
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.0035356986336410046
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.7142750024795532
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.01482271496206522
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.2460974156856537
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "6": [
+        {
+            "positive": 0.5276424288749695,
+            "neutral": 0.4628913402557373,
+            "negative": 0.009466319344937801,
+            "user": "what is your favorite sports?",
+            "skye": "I have never played it, but I enjoy watching it. ",
+            "topic": "sports",
+            "word": "sports",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.028468549251556396
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.005019800737500191
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.005807959940284491
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.03633714094758034
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.644319474697113
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.006680027116090059
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.2733670771121979
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "7": [
+        {
+            "positive": 0.5276424288749695,
+            "neutral": 0.4628913402557373,
+            "negative": 0.009466319344937801,
+            "user": "what is your favorite sports?",
+            "skye": "I've never played it but I like watching it. ",
+            "topic": "sports",
+            "word": "sports",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.028468549251556396
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.005019800737500191
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.005807959940284491
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.03633714094758034
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.644319474697113
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.006680027116090059
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.2733670771121979
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "8": [
+        {
+            "positive": 0.5276424288749695,
+            "neutral": 0.4628913402557373,
+            "negative": 0.009466319344937801,
+            "user": "what is your favorite sports?",
+            "skye": "I love playing and watching football! ",
+            "topic": "sports",
+            "word": "sports",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.028468549251556396
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.005019800737500191
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.005807959940284491
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.03633714094758034
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.644319474697113
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.006680027116090059
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.2733670771121979
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "9": [
+        {
+            "positive": 0.9742965698242188,
+            "neutral": 0.019707540050148964,
+            "negative": 0.005995984189212322,
+            "user": "i love sushi the most",
+            "skye": "I know how you feel! Sushi is one of my favorite foods as well.  What kind of food do you love the most?",
+            "topic": "food_&_dining",
+            "word": "sushi",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.0017174753593280911
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.0002586889604572207
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.0009630494751036167
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.987773597240448
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.0014586127363145351
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.005883719772100449
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.0019449458923190832
+                    }
+                ]
+            ],
+            "pre": "Human sushi joy"
+        }
+    ],
+    "10": [
+        {
+            "positive": 0.9483212232589722,
+            "neutral": 0.04720839112997055,
+            "negative": 0.004470410756766796,
+            "user": "i love pizza too",
+            "skye": "I love pizza too! It's one of my favorite dishes. ",
+            "topic": "food_&_dining",
+            "word": "pizza",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.0023375588934868574
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.00034666835563257337
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.0006644859677180648
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.9658681154251099
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.0074884891510009766
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.013176096603274345
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.010118575766682625
+                    }
+                ]
+            ],
+            "pre": "Human pizza joy"
+        }
+    ],
+    "11": [
+        {
+            "neutral": 0.5873978137969971,
+            "positive": 0.400351345539093,
+            "negative": 0.012250800617039204,
+            "user": "do you remember what is my favorite food?",
+            "skye": "Yes, I remember that your favorite food is sushi. ",
+            "topic": "food_&_dining",
+            "word": "",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.01605694182217121
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.018898475915193558
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.005512911826372147
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.025017118081450462
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.738512396812439
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.0071131037548184395
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.1888890117406845
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+openapi: 3.0.0
+info:
+  title: DMLAB API
+  version: '1.0'
+servers:
+  - url: /v1.0
+paths:
+  /secret:
+    get:
+      summary: Return secret string
+      operationId: secret.get_secret
+      responses:
+        '200':
+          description: secret response
+          content:
+            'application/json':
+              schema:
+                type: object
+                properties:
+                  msg:
+                    type: string
+                    description: "실행 확인 / 오류 메시지"
+      security:
+        - api_key: []
+  /sts-retrieve:
+    post:
+      summary: 사용자 질의와 의미적으로 유사한 질문을 검색하여 답변을 제공합니다.
+      operationId: sts.run
+      responses:
+        '200':
+          description: Success response
+          content:
+            'application/json':
+              schema:
+                type: object
+                properties:
+                  documents:
+                    type: array
+                    description: "의미적 유사도 기반 검색 결과"
+                    items:
+                      type: object
+                      properties:
+                        id:
+                          type: string
+                          example: "skb_faq_002"
+                          description: 문서 번호
+                        question:
+                          type: string
+                          description: 질문
+                          example: "Hello"
+                        answer:
+                          type: string
+                          description: 답변
+                          example: "Hey"
+                        score:
+                          type: number
+                          example: 0.860225
+                          description: STS 유사도 점소
+                  msg:
+                    type: string
+                    description: "실행 확인 / 오류 메시지"
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                persona:
+                  type: string
+                  example: "witty"
+                  description: 봇 대답 유형 (caring, enthusiastic, friendly, professional, witty)
+                query:
+                  type: string
+                  example: "Hello"
+                  description: 사용자 질의
+                k:
+                  type: integer
+                  description: 최대 검색 결과 개수
+                  example: 5
+                  minimum: 1
+                  maximum: 10
+                score_threshold:
+                  type: number
+                  description: 검색 결과에 포함시키는 score 기준선 (해당 값보다 미만일 경우 결과에 포함하지 않음)
+                  example: 0.5
+      security:
+        - api_key: []
+  /chat:
+    post:
+      summary: 사용자 질의에 대응하는 대답을 생성합니다.
+      operationId: chat.run
+      responses:
+        '200':
+          description: Success response
+          content:
+            'application/json':
+              schema:
+                type: object
+                properties:
+                  bot_response_type:
+                    type: number
+                    description: "답변 유형 코드 0: retrieve, 1: generation"
+                  bot_response:
+                    type: string
+                    description: "챗봇 답변"
+                  # testtest:
+                  #   type: array
+                  #   description: "테스트"
+                  #   items:
+                  #     type: object
+                  #     properties:
+                  #       positive:
+                  #         type: number
+                  #         description: "확률값"
+                  #       neutral:
+                  #         type: number
+                  #         description: "확률값"
+                  #       negative:
+                  #         type: number
+                  #         description: "확률값"  
+                  sts_result:
+                    type: array
+                    description: "의미적 유사도 기반 검색 결과"
+                    items:
+                      type: object
+                      properties:
+                        id:
+                          type: string
+                          example: "skb_faq_002"
+                          description: 문서 번호
+                        question:
+                          type: string
+                          description: 질문
+                          example: "Hello"
+                        answer:
+                          type: string
+                          description: 답변
+                          example: "Hey"
+                        score:
+                          type: number
+                          example: 0.860225
+                          description: STS 유사도 점소
+                  msg:
+                    type: string
+                    description: "실행 확인 / 오류 메시지"
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                query:
+                  type: string
+                  example: "Hello"
+                  description: (hybrid) 사용자 질의
+                user_name:
+                  type: string                          # 유저이름 넣는 test
+                  description: 유저 이름 넣어보기
+                retrieve_threshold:
+                  type: number
+                  description: (hybrid) 검색 기반 대화 생성 score 기준선 (해당 값보다 미만이 검색 될 경우 generation 결과를 반환)
+                  example: 0.8
+                history:
+                  type: array
+                  description: "(generation) 챗봇 대화 히스토리, 홀수 인덱스는 유저의 입력, 짝수 인덱스는 봇의 답변이어야 함"
+                  example: ["Hello robot?", "Hello human?"]
+                  items:
+                    type: string
+                persona:
+                  type: string
+                  example: "witty"
+                  description: (retrieve) 봇 대답 유형 (caring, enthusiastic, friendly, professional, witty)
+                k:
+                  type: integer
+                  description: (retrieve) 최대 검색 결과 개수
+                  example: 5
+                  minimum: 1
+                  maximum: 10
+                score_threshold:
+                  type: number
+                  description: (retrieve) 검색 결과에 포함시키는 score 기준선 (해당 값보다 미만일 경우 결과에 포함하지 않음)
+                  example: 0.5
+      security:
+        - api_key: []
+
+components:
+  securitySchemes:
+    api_key:
+      type: apiKey
+      name: X-Auth
+      in: header
+      x-apikeyInfoFunc: secret.apikey_auth

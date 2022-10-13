@@ -1,0 +1,223 @@
+﻿{
+    "extended_answer": [],
+    "1": [
+        {
+            "positive": 0.5635039210319519,
+            "neutral": 0.41527214646339417,
+            "negative": 0.021223893389105797,
+            "user": "what's my favorite food",
+            "skye": "Your favorite food is sushi. ",
+            "topic": "food_&_dining",
+            "word": "food",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.014264578931033611
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.002416775096207857
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.004920430481433868
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.44625619053840637
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.24444004893302917
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.010437412187457085
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.2772645056247711
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "2": [
+        {
+            "positive": 0.9521574974060059,
+            "neutral": 0.038966067135334015,
+            "negative": 0.008876540698111057,
+            "user": "I love sushi",
+            "skye": "What other kinds of food do you enjoy? ",
+            "topic": "food_&_dining",
+            "word": "sushi",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.001189426751807332
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.0015217122854664922
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.0006968334200792015
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.9808403849601746
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.008052405901253223
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.0048974500969052315
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.0028017449658364058
+                    }
+                ]
+            ],
+            "pre": "Human sushi joy"
+        }
+    ],
+    "3": [
+        {
+            "neutral": 0.5873984694480896,
+            "positive": 0.4003507196903229,
+            "negative": 0.012250841595232487,
+            "user": "do you remember what is my favorite food?",
+            "skye": "I remember that your favorite food is sushi. ",
+            "topic": "food_&_dining",
+            "word": "food",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.016056930646300316
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.018898459151387215
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.005512910429388285
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.02501710131764412
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.7385125160217285
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.007113101426512003
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.18888896703720093
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "4": [
+        {
+            "neutral": 0.8591978549957275,
+            "positive": 0.0784221962094307,
+            "negative": 0.06237990781664848,
+            "user": "what time is it",
+            "skye": "In the metaverse, there is no notion of time. We schedule ourselves depending on the average needs of the inhabitants. Isn't it awesome? ",
+            "topic": "",
+            "word": "",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.02002568170428276
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.005314381327480078
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.009774028323590755
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.0016648679738864303
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.7203851938247681
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.012174778617918491
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.2306610643863678
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "5": [
+        {
+            "neutral": 0.7442426681518555,
+            "positive": 0.2132720798254013,
+            "negative": 0.04248521849513054,
+            "user": "how's the weather",
+            "skye": "We can set the weather up if we like rainy or sunny days. ",
+            "topic": "",
+            "word": "weather",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.014176247641444206
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.004413296468555927
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.006319956388324499
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.006329755298793316
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.5980662107467651
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.11527934670448303
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.2554151713848114
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ]
+}

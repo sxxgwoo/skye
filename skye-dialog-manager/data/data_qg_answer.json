@@ -1,0 +1,430 @@
+{
+    "arts_&_culture": {
+        "positive": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "neutral": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "negative": {
+            "0": "Because I don't like it",
+            "1": "Hmm it make me sad",
+            "2": "that's too bad",
+            "3": "it's bad"
+        }
+    },
+    "business_&_entrepreneurs": {
+        "positive": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "neutral": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "negative": {
+            "0": "Because I don't like it",
+            "1": "Hmm it make me sad",
+            "2": "that's too bad",
+            "3": "it's bad"
+        }
+    },
+    "celebrity_&_pop_culture": {
+        "positive": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "neutral": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "negative": {
+            "0": "Because I don't like it",
+            "1": "Hmm it make me sad",
+            "2": "that's too bad",
+            "3": "it's bad"
+        }
+    },
+    "diaries_&_daily_life": {
+        "positive": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it",
+            "5": "how about you?"
+        },
+        "neutral": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it",
+            "5": "how about you?"
+        },
+        "negative": {
+            "0": "Because I don't like it",
+            "1": "Hmm it make me sad",
+            "2": "that's too bad",
+            "3": "it's bad"
+        }
+    },
+    "family": {
+        "positive": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "neutral": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "negative": {
+            "0": "Because I don't like it",
+            "1": "Hmm it make me sad",
+            "2": "that's too bad",
+            "3": "it's bad"
+        }
+    },
+    "fashion_&_style": {
+        "positive": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "neutral": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "negative": {
+            "0": "Because I don't like it",
+            "1": "Hmm it make me sad",
+            "2": "that's too bad",
+            "3": "it's bad"
+        }
+    },
+    "film_tv_&_video": {
+        "positive": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "neutral": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "negative": {
+            "0": "Because I don't like it",
+            "1": "Hmm it make me sad",
+            "2": "that's too bad",
+            "3": "it's bad"
+        }
+    },
+    "fitness_&_health": {
+        "positive": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "neutral": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "negative": {
+            "0": "Because I don't like it",
+            "1": "Hmm it make me sad",
+            "2": "that's too bad",
+            "3": "it's bad"
+        }
+    },
+    "food_&_dining": {
+        "positive": {
+            "0": "that's great",
+            "1": "Yes of course, It make me happy",
+            "2": "Hmm it make me happy",
+            "3": "of course, everyone like it",
+            "4": "I really like eating a food",
+            "5": "Because I really like eating a food"
+        },
+        "neutral": {
+            "0": "that's great",
+            "1": "Yes of course, It make me happy",
+            "2": "Hmm it make me happy",
+            "3": "of course, everyone like it",
+            "4": "I really like eating a food",
+            "5": "Because I really like eating a food"
+        },
+        "negative": {
+            "0": "Because I don't like it",
+            "1": "Hmm it make me sad",
+            "2": "that's too bad",
+            "3": "it's bad"
+        }
+    },
+    "gaming": {
+        "positive": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "neutral": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "negative": {
+            "0": "Because I don't like it",
+            "1": "Hmm it make me sad",
+            "2": "that's too bad",
+            "3": "it's bad"
+        }
+    },
+    "learning_&_educational": {
+        "positive": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "neutral": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "negative": {
+            "0": "Because I don't like it",
+            "1": "Hmm it make me sad",
+            "2": "that's too bad",
+            "3": "it's bad"
+        }
+    },
+    "music": {
+        "positive": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it",
+            "5": "BTS",
+            "6": "listening to music is really fun"
+        },
+        "neutral": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it",
+            "5": "BTS",
+            "6": "listening to music is really fun"
+        },
+        "negative": {
+            "0": "Because I don't like it",
+            "1": "Hmm it make me sad",
+            "2": "that's too bad",
+            "3": "it's bad"
+        }
+    },
+    "news_&_social_concern": {
+        "positive": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "neutral": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "negative": {
+            "0": "Because I don't like it",
+            "1": "Hmm it make me sad",
+            "2": "that's too bad",
+            "3": "it's bad"
+        }
+    },
+    "other_hobbies": {
+        "positive": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "neutral": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "negative": {
+            "0": "Because I don't like it",
+            "1": "Hmm it make me sad",
+            "2": "that's too bad",
+            "3": "it's bad"
+        }
+    },
+    "relationships": {
+        "positive": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "neutral": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "negative": {
+            "0": "Because I don't like it",
+            "1": "Hmm it make me sad",
+            "2": "that's too bad",
+            "3": "it's bad"
+        }
+    },
+    "science_&_technology": {
+        "positive": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "neutral": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "negative": {
+            "0": "Because I don't like it",
+            "1": "Hmm it make me sad",
+            "2": "that's too bad",
+            "3": "it's bad"
+        }
+    },
+    "sports": {
+        "positive": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "neutral": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "negative": {
+            "0": "Because I don't like it",
+            "1": "Hmm it make me sad",
+            "2": "that's too bad",
+            "3": "it's bad"
+        }
+    },
+    "travel_&_adventure": {
+        "positive": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it",
+            "5": "how about you?"
+        },
+        "neutral": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it",
+            "5": "how about you?"
+        },
+        "negative": {
+            "0": "Because I don't like it",
+            "1": "Hmm it make me sad",
+            "2": "that's too bad",
+            "3": "it's bad"
+        }
+    },
+    "youth_&_student_life": {
+        "positive": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "neutral": {
+            "0": "that's great",
+            "1": "Because I like it",
+            "2": "Yes of course, It make me happy",
+            "3": "Hmm it make me happy",
+            "4": "of course, everyone like it"
+        },
+        "negative": {
+            "0": "Because I don't like it",
+            "1": "Hmm it make me sad",
+            "2": "that's too bad",
+            "3": "it's bad"
+        }
+    }
+}

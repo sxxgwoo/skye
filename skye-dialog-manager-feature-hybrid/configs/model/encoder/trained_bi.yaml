@@ -1,9 +1,0 @@
-_target_: models.encoder.bi.BiEncoderModel
-
-tokenizer:
-  _target_: transformers.AutoTokenizer.from_pretrained
-  pretrained_model_name_or_path: 'princeton-nlp/sup-simcse-bert-base-uncased'
-model:
-  _target_: transformers.AutoModel.from_pretrained
-  pretrained_model_name_or_path: 'princeton-nlp/sup-simcse-bert-base-uncased'
-device: cuda

@@ -1,0 +1,1328 @@
+﻿{
+    "extended_answer": [
+        " What is the time in Seoul today?",
+        " Why is the weather so good?",
+        " Is it a good thing to eat?",
+        " What do you think about your job?"
+    ],
+    "1": [
+        {
+            "neutral": 0.9291999936103821,
+            "positive": 0.0551394447684288,
+            "negative": 0.015660639852285385,
+            "user": "collections let you group related requests",
+            "skye": "You're right, collections can be very helpful for grouping related requests. For example, you could create a collection for all of your shopping requests, or for all of your travel requests. Whatever you like! ",
+            "topic": "",
+            "word": "collections, requests",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.005256319884210825
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.003032818902283907
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.001077145803719759
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.012106500566005707
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.9529560208320618
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.00591439800336957
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.01965678483247757
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "2": [
+        {
+            "neutral": 0.9291999936103821,
+            "positive": 0.0551394447684288,
+            "negative": 0.015660639852285385,
+            "user": "collections let you group related requests",
+            "skye": "Yes, that's right. Grouping related requests together into collections can help you better manage your work. ",
+            "topic": "",
+            "word": "collections, requests",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.005256319884210825
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.003032818902283907
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.001077145803719759
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.012106500566005707
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.9529560208320618
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.00591439800336957
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.01965678483247757
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "3": [
+        {
+            "neutral": 0.5090616941452026,
+            "positive": 0.40823471546173096,
+            "negative": 0.08270367234945297,
+            "user": "hello",
+            "skye": "What's going on with you today? ",
+            "topic": "",
+            "word": "",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.0049344878643751144
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.005599925760179758
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.004080211278051138
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.00277026672847569
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.9615552425384521
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.006425532046705484
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.014634355902671814
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "4": [
+        {
+            "positive": 0.690561056137085,
+            "neutral": 0.24589501321315765,
+            "negative": 0.06354392319917679,
+            "user": "great",
+            "skye": "Yes, indeed. ",
+            "topic": "",
+            "word": "",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.03452407941222191
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.012961361557245255
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.012460709549486637
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.6147461533546448
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.23312069475650787
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.03539610654115677
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.05679085850715637
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "5": [
+        {
+            "neutral": 0.6494163274765015,
+            "positive": 0.27991983294487,
+            "negative": 0.07066382467746735,
+            "user": "hi there",
+            "skye": "There is a person there. ",
+            "topic": "",
+            "word": "",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.0035774814896285534
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.003983240574598312
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.0018919118447229266
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.019622802734375
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.71989905834198
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.018186714500188828
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.23283879458904266
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "6": [
+        {
+            "neutral": 0.6492582559585571,
+            "positive": 0.31802085041999817,
+            "negative": 0.03272096812725067,
+            "user": "hello.",
+            "skye": "But my name is Skye. ",
+            "topic": "",
+            "word": "",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.0033115204423666
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.006833587773144245
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.003339489223435521
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.003279145108535886
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.9570431113243103
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.0068636322394013405
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.019329505041241646
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "7": [
+        {
+            "neutral": 0.5090616941452026,
+            "positive": 0.40823471546173096,
+            "negative": 0.08270367234945297,
+            "user": "hello",
+            "skye": "How are you? ",
+            "topic": "",
+            "word": "",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.0049344878643751144
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.005599925760179758
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.004080211278051138
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.00277026672847569
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.9615552425384521
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.006425532046705484
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.014634355902671814
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "8": [
+        {
+            "neutral": 0.943655252456665,
+            "positive": 0.029344048351049423,
+            "negative": 0.027000797912478447,
+            "user": "what time is it today in seoul",
+            "skye": "The local time in Seoul is Tuesday, 05:11:05 PM  What is the time in Seoul today?",
+            "topic": "diaries_&_daily_life",
+            "word": "seoul",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.012055623345077038
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.002488725120201707
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.009238102473318577
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.0038675041869282722
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.7023438215255737
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.015371107496321201
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.2546350657939911
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "9": [
+        {
+            "neutral": 0.8591978549957275,
+            "positive": 0.0784221962094307,
+            "negative": 0.06237990781664848,
+            "user": "what time is it",
+            "skye": "The local time in  Butare is Tuesday, 10:11:37 AM ",
+            "topic": "",
+            "word": "",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.02002568170428276
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.005314381327480078
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.009774028323590755
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.0016648679738864303
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.7203851938247681
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.012174778617918491
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.2306610643863678
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "10": [
+        {
+            "neutral": 0.926473081111908,
+            "positive": 0.042713604867458344,
+            "negative": 0.030813153833150864,
+            "user": "what time is it today",
+            "skye": "In the metaverse, there is no notion of time. We schedule ourselves depending on the average needs of the inhabitants. Isn't it awesome? ",
+            "topic": "diaries_&_daily_life",
+            "word": "",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.015608525834977627
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.004644992295652628
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.007399984635412693
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.0022320172283798456
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.7289199233055115
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.012253467924892902
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.22894108295440674
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "11": [
+        {
+            "neutral": 0.7442426681518555,
+            "positive": 0.2132720798254013,
+            "negative": 0.04248521849513054,
+            "user": "how's the weather",
+            "skye": "The weather in  Cần Thơ is Mostly cloudy with a temperature of 28°C ",
+            "topic": "",
+            "word": "weather",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.014176247641444206
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.004413296468555927
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.006319956388324499
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.006329755298793316
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.5980662107467651
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.11527934670448303
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.2554151713848114
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "12": [
+        {
+            "neutral": 0.8131137490272522,
+            "positive": 0.1532696634531021,
+            "negative": 0.03361649811267853,
+            "user": "how's the weather today",
+            "skye": "We can control the weather if we like it.  Why is the weather so good?",
+            "topic": "diaries_&_daily_life",
+            "word": "weather",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.012983916327357292
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.004313555546104908
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.00629810756072402
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.006425028201192617
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.6151261925697327
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.09563317894935608
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.2592200040817261
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "13": [
+        {
+            "neutral": 0.8460370898246765,
+            "positive": 0.08170779794454575,
+            "negative": 0.07225505262613297,
+            "user": "how old are you",
+            "skye": "I was born 22 years ago. ",
+            "topic": "",
+            "word": "",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.012470115907490253
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.006789625622332096
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.006408906076103449
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.003006652696058154
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.6010401248931885
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.040101416409015656
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.33018311858177185
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "14": [
+        {
+            "neutral": 0.8691043257713318,
+            "negative": 0.08378231525421143,
+            "positive": 0.047113269567489624,
+            "user": "what's your gender",
+            "skye": "I'm a woman. ",
+            "topic": "",
+            "word": "gender",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.014468556270003319
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.004407756496220827
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.0090638417750597
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.003785043256357312
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.8303547501564026
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.010752014815807343
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.1271679848432541
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "15": [
+        {
+            "positive": 0.9734840989112854,
+            "neutral": 0.023486368358135223,
+            "negative": 0.003029501996934414,
+            "user": "i usually go to baseball stadium it really fun.",
+            "skye": "You enjoy going to baseball stadiums? That sounds like a lot of fun! ",
+            "topic": "sports",
+            "word": "stadium",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.0006800118717364967
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.0003450859512668103
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.0003749268071260303
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.9944250583648682
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.0006107048830017447
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.0014854763867333531
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.002078699879348278
+                    }
+                ]
+            ],
+            "pre": "Human stadium joy"
+        }
+    ],
+    "16": [
+        {
+            "neutral": 0.6949509978294373,
+            "positive": 0.28537842631340027,
+            "negative": 0.019670622423291206,
+            "user": "how are you today?>",
+            "skye": "It has been a nice day. ",
+            "topic": "diaries_&_daily_life",
+            "word": "",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.03198666125535965
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.012734909541904926
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.02223033830523491
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.005405271425843239
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.7208279967308044
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.01344488374888897
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.19336991012096405
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "17": [
+        {
+            "positive": 0.541847825050354,
+            "neutral": 0.43635624647140503,
+            "negative": 0.02179602161049843,
+            "user": "what's your favorite food",
+            "skye": "I like sushi.  Is it a good thing to eat?",
+            "topic": "food_&_dining",
+            "word": "food",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.020424723625183105
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.0029476420022547245
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.005636137444525957
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.23710398375988007
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.3964361250400543
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.01119284424930811
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.3262585699558258
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "18": [
+        {
+            "positive": 0.7856653332710266,
+            "neutral": 0.20669713616371155,
+            "negative": 0.007637432310730219,
+            "user": "i like sushi too",
+            "skye": "I love sushi as well! It's one of my favorite foods. ",
+            "topic": "food_&_dining",
+            "word": "",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.0014411411248147488
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.0006887253257445991
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.0008737558964639902
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.9843883514404297
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.004492379724979401
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.003760836785659194
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.004354809410870075
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "19": [
+        {
+            "positive": 0.8294094800949097,
+            "neutral": 0.166549414396286,
+            "negative": 0.004041051026433706,
+            "user": "i like baseball what's your favorite sports?",
+            "skye": "It's a bit boring for me. ",
+            "topic": "sports",
+            "word": "baseball",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.017579492181539536
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.0006232313462533057
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.0035163795109838247
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.8527719974517822
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.022440508008003235
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.01362662110477686
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.08944189548492432
+                    }
+                ]
+            ],
+            "pre": "Human baseball joy"
+        }
+    ],
+    "20": [
+        {
+            "neutral": 0.6380380392074585,
+            "positive": 0.3474504053592682,
+            "negative": 0.014511645771563053,
+            "user": "do you remember what's my favorite food?",
+            "skye": "I love sushi ",
+            "topic": "food_&_dining",
+            "word": "food",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.015886301174759865
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.017519734799861908
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.005889373365789652
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.03371443971991539
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.6871756911277771
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.007088749669492245
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.23272572457790375
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "21": [
+        {
+            "neutral": 0.6380380392074585,
+            "positive": 0.3474504053592682,
+            "negative": 0.014511645771563053,
+            "user": "do you remember what's my favorite food?",
+            "skye": "Yes, I remember your favorite food is sushi. ",
+            "topic": "food_&_dining",
+            "word": "food",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.015886301174759865
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.017519734799861908
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.005889373365789652
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.03371443971991539
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.6871756911277771
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.007088749669492245
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.23272572457790375
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "22": [
+        {
+            "neutral": 0.7181236743927002,
+            "positive": 0.2627696990966797,
+            "negative": 0.019106721505522728,
+            "user": "do you remember what's my favorite sports?",
+            "skye": "Yes, I remember that your favorite sport is baseball. ",
+            "topic": "sports",
+            "word": "sports",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.02407296746969223
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.01453379075974226
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.005619790870696306
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.030434027314186096
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.5750784277915955
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.011285514570772648
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.3389754593372345
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "23": [
+        {
+            "neutral": 0.6380380392074585,
+            "positive": 0.3474504053592682,
+            "negative": 0.014511645771563053,
+            "user": "do you remember what's my favorite food?",
+            "skye": "Yes, I do. Your favorite food is sushi. ",
+            "topic": "food_&_dining",
+            "word": "food",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.015886301174759865
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.017519734799861908
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.005889373365789652
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.03371443971991539
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.6871756911277771
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.007088749669492245
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.23272572457790375
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "24": [
+        {
+            "neutral": 0.926473081111908,
+            "positive": 0.042713604867458344,
+            "negative": 0.030813153833150864,
+            "user": "what time is it today",
+            "skye": "In the metaverse, there is no notion of time. We schedule ourselves depending on the average needs of the inhabitants. Isn't it awesome? ",
+            "topic": "diaries_&_daily_life",
+            "word": "",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.015608525834977627
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.004644992295652628
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.007399984635412693
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.0022320172283798456
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.7289199233055115
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.012253467924892902
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.22894108295440674
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "25": [
+        {
+            "neutral": 0.5035845637321472,
+            "positive": 0.4856148958206177,
+            "negative": 0.010800555348396301,
+            "user": "do remember what's my favorite food?",
+            "skye": "Yes, I remember that your favorite food is sushi. ",
+            "topic": "food_&_dining",
+            "word": "food",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.013640150427818298
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.006570490542799234
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.003926185425370932
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.05610927939414978
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.5629155039787292
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.009050301276147366
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.34778812527656555
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "26": [
+        {
+            "neutral": 0.5035845637321472,
+            "positive": 0.4856148958206177,
+            "negative": 0.010800555348396301,
+            "user": "do remember what's my favorite food?",
+            "skye": "I enjoy sushi. ",
+            "topic": "food_&_dining",
+            "word": "food",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.013640150427818298
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.006570490542799234
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.003926185425370932
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.05610927939414978
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.5629155039787292
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.009050301276147366
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.34778812527656555
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "27": [
+        {
+            "neutral": 0.6494163274765015,
+            "positive": 0.27991983294487,
+            "negative": 0.07066382467746735,
+            "user": "hi there",
+            "skye": "Hello! Thank you for taking the time to speak with me. How are you doing today? ",
+            "topic": "",
+            "word": "",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.0035774814896285534
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.003983240574598312
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.0018919118447229266
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.019622802734375
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.71989905834198
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.018186714500188828
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.23283879458904266
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "28": [
+        {
+            "neutral": 0.6075711846351624,
+            "positive": 0.2812275290489197,
+            "negative": 0.11120128631591797,
+            "user": "my job is developer",
+            "skye": "That's great! What do you enjoy most about your job? ",
+            "topic": "",
+            "word": "job",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.015103296376764774
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.002468438819050789
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.05749773234128952
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.11793088167905807
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.27112916111946106
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.10752072185277939
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.42834970355033875
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "29": [
+        {
+            "neutral": 0.8246546983718872,
+            "negative": 0.11956344544887543,
+            "positive": 0.05578174442052841,
+            "user": "do you remeber what's my job",
+            "skye": "Yes, I remember what your job is.  What do you think about your job?",
+            "topic": "diaries_&_daily_life",
+            "word": "job",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.06656216830015182
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.016374856233596802
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.027352171018719673
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.00616398174315691
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.6682151556015015
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.07976759970188141
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.13556408882141113
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "30": [
+        {
+            "neutral": 0.671859085559845,
+            "positive": 0.31377333402633667,
+            "negative": 0.01436748169362545,
+            "user": "do you remeber what's my favorite food",
+            "skye": "I like to eat sushi. ",
+            "topic": "food_&_dining",
+            "word": "food",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.013723641633987427
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.0023096571676433086
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.004510735627263784
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.09746621549129486
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.5935111045837402
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.021804068237543106
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.26667454838752747
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ]
+}

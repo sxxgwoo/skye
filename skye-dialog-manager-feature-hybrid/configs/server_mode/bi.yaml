@@ -1,6 +1,0 @@
-# @package _global_
-
-defaults:
-  - override /model/encoder: trained_bi.yaml
-  - override /retriever/dense: bi.yaml
-  - override /retriever/sparse: bm25.yaml

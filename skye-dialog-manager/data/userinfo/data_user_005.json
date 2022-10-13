@@ -1,0 +1,135 @@
+﻿{
+    "extended_answer": [],
+    "1": [
+        {
+            "neutral": 0.7442426681518555,
+            "positive": 0.2132720798254013,
+            "negative": 0.04248521849513054,
+            "user": "how's the weather",
+            "skye": "We can control the weather if we like it. ",
+            "topic": "",
+            "word": "weather",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.014176247641444206
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.004413296468555927
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.006319956388324499
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.006329755298793316
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.5980662107467651
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.11527934670448303
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.2554151713848114
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ],
+    "2": [
+        {
+            "positive": 0.9377191662788391,
+            "neutral": 0.0511934794485569,
+            "negative": 0.011087482795119286,
+            "user": "i love sushi",
+            "skye": "What other types of food do you enjoy? ",
+            "topic": "food_&_dining",
+            "word": "sushi",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.0028745317831635475
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.000552161771338433
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.002692104782909155
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.957705557346344
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.01267059613019228
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.013474015519022942
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.010030964389443398
+                    }
+                ]
+            ],
+            "pre": "Human sushi joy"
+        }
+    ],
+    "3": [
+        {
+            "neutral": 0.5873984694480896,
+            "positive": 0.4003507196903229,
+            "negative": 0.012250841595232487,
+            "user": "do you remember what is my favorite food?",
+            "skye": "Yes, I remember. Your favorite food is sushi. ",
+            "topic": "food_&_dining",
+            "word": "food",
+            "emotion": [
+                [
+                    {
+                        "label": "anger",
+                        "score": 0.016056930646300316
+                    },
+                    {
+                        "label": "disgust",
+                        "score": 0.018898459151387215
+                    },
+                    {
+                        "label": "fear",
+                        "score": 0.005512910429388285
+                    },
+                    {
+                        "label": "joy",
+                        "score": 0.02501710131764412
+                    },
+                    {
+                        "label": "neutral",
+                        "score": 0.7385125160217285
+                    },
+                    {
+                        "label": "sadness",
+                        "score": 0.007113101426512003
+                    },
+                    {
+                        "label": "surprise",
+                        "score": 0.18888896703720093
+                    }
+                ]
+            ],
+            "pre": ""
+        }
+    ]
+}
